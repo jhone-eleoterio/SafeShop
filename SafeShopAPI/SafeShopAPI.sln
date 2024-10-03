@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SafeShopAPI", "SafeShopAPI.csproj", "{95CD6FB8-CE0A-46D9-8B6E-775DF8CF960F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BC088931-AAA2-4B12-910D-7B0FC70EFD3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95CD6FB8-CE0A-46D9-8B6E-775DF8CF960F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CD6FB8-CE0A-46D9-8B6E-775DF8CF960F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CD6FB8-CE0A-46D9-8B6E-775DF8CF960F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CD6FB8-CE0A-46D9-8B6E-775DF8CF960F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{95CD6FB8-CE0A-46D9-8B6E-775DF8CF960F} = {BC088931-AAA2-4B12-910D-7B0FC70EFD3E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {360134C6-7C61-43D2-9ACD-A3CCCB8DABCA}
+	EndGlobalSection
+EndGlobal
