@@ -1,3 +1,3 @@
 # SafeShop
 
-This project demostrate, the simple way how to add Authentication in api routes, using JWT token
+This project demonstrates in a simple way how to add authentication to API routes, using the JWT token.
